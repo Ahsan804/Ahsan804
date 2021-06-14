@@ -102,7 +102,7 @@ More Focusing On PHP Projects 😃
 <a href="https://ahsan804.github.io/WebDev/" target="_blank"><img title="WebDev" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=WebDev&theme=vue-dark"></a>
 <a href="https://ahsan804.github.io/MovieApp/" target="_blank"><img title="MovieApp" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=MovieApp&theme=vue-dark"></a>
 <a href="https://ahsan804.github.io/Kissan/" target="_blank"><img title="Kissan" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Kissan&theme=vue-dark"></a>
-<a href="https://ahsan804.github.io/blogger/ target="_blank"><img title="blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=blogger&theme=vue-dark"></a>
+<a href="https://ahsan804.github.io/blogger/" target="_blank"><img title="blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=blogger&theme=vue-dark"></a>
 
 
 
