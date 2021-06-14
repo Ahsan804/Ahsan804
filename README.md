@@ -12,7 +12,7 @@ I am passionate about building excellent software / Websites and Web Application
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I used tabs instead of spaces 🤞
 
-<img align="right" alt="GIF" src="https://github.com/Ahsan804/Ahsan804/blob/main/PROGRAMMING.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="./PROGRAMMING.gif" width="500" height="320" />
 
 - 💬 Ask me about anything, I am always happy to help;
 - 📫 How to reach me:<a href="https://twitter.com/AHSAN30228618">
