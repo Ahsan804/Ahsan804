@@ -97,12 +97,12 @@ More Focusing On PHP Projects 😃
 <a href="https://github.com/Ahsan804/Scientific-Calculator-using-Infix-to-Postfix"><img title="Scientific-Calculator-using-Infix-to-Postfix" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Scientific-Calculator-using-Infix-to-Postfix&theme=vue-dark"></a>
 <a href="https://github.com/Ahsan804/ASP.Net-School-Management-System"><img title="ASP.Net-School-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=ASP.Net-School-Management-System&theme=vue-dark"></a>
 <a href="https://github.com/Ahsan804/Dining-Delight"><img title="Dining-Delight" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Dining-Delight&theme=vue-dark"></a>
-<a href="https://ahsan804.github.io/ProfileSearch/"><img title="ProfileSearch" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=ProfileSearch&theme=vue-dark"></a>
-<a href="https://ahsan804.github.io/Belcanto/"><img title="Belcanto" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Belcanto&theme=vue-dark"></a>
-<a href="https://ahsan804.github.io/WebDev/"><"><img title="WebDev" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=WebDev&theme=vue-dark"></a>
-<a href="https://ahsan804.github.io/MovieApp/"><img title="MovieApp" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=MovieApp&theme=vue-dark"></a>
-<a href="https://ahsan804.github.io/Kissan/"><"><img title="Kissan" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Kissan&theme=vue-dark"></a>
-<a href="https://ahsan804.github.io/blogger/"><"><img title="blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=blogger&theme=vue-dark"></a>
+<a href="https://ahsan804.github.io/ProfileSearch/" target="_blank"><img title="ProfileSearch" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=ProfileSearch&theme=vue-dark"></a>
+<a href="https://ahsan804.github.io/Belcanto/" target="_blank"><img title="Belcanto" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Belcanto&theme=vue-dark"></a>
+<a href="https://ahsan804.github.io/WebDev/" target="_blank"><img title="WebDev" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=WebDev&theme=vue-dark"></a>
+<a href="https://ahsan804.github.io/MovieApp/" target="_blank"><img title="MovieApp" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=MovieApp&theme=vue-dark"></a>
+<a href="https://ahsan804.github.io/Kissan/" target="_blank"><img title="Kissan" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Kissan&theme=vue-dark"></a>
+<a href="https://ahsan804.github.io/blogger/ target="_blank"><img title="blogger" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=blogger&theme=vue-dark"></a>
 
 
 
