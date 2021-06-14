@@ -84,7 +84,7 @@ More Focusing On PHP Projects 😃
 
 <br />
 <br />
----
+<hr>
 
 <p align="center"> 
 <a href="https://github.com/Ahsan804"><img title="DevAhsan" src="https://github-readme-stats.vercel.app/api?username=ahsan804&show_icons=true&theme=vue-dark"></a>
