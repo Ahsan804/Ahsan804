@@ -117,5 +117,5 @@ More Focusing On PHP Projects 😃
 [website]: https://itechsolution.xyz
 [twitter]: https://twitter.com/AHSAN30228618
 [instagram]: https://instagram.com/ahankhn
-[linkedin]: https://linkedin.com/in/ahsan-nadeem-260806159
+[facebook]: https://linkedin.com/in/ahsan-nadeem-260806159
 [linkedin]: https://www.facebook.com/MUH.AHSAN804
