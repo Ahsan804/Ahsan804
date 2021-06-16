@@ -46,10 +46,8 @@ More Focusing On PHP Projects 😃
 <a href="https://www.buymeacoffee.com/DevAhsan" target="buymeacoffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
-
-<p align="center">
 ### Spotify Playing 🎧
-
+<p align="center">
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DevAhsan Spotify Playing" width="350" />](https://open.spotify.com/playlist/1S6wQlLBxCk5TCVthSfWO0)<p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/Ahsan804/count.svg" />
