@@ -47,9 +47,10 @@ More Focusing On PHP Projects 😃
 </p>
 
 ### Spotify Playing 🎧
-<p align="center">
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DevAhsan Spotify Playing" width="350" />](https://open.spotify.com/playlist/1S6wQlLBxCk5TCVthSfWO0)<p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+
+<p align="center">
+  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/Ahsan804/count.svg" />
 </p>
 
