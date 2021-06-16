@@ -93,11 +93,11 @@ More Focusing On PHP Projects 😃
 <p align="center">
 <a href="https://github.com/Ahsan804/School-Management-System"><img title="School-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsan804&repo=School-Management-System&theme=vue-dark"></a>
 <a href="https://github.com/Ahsan804/Hospital-Management-System"><img title="Hospital-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Hospital-Management-System&theme=vue-dark"></a>
-<a href="https://github.com/Ahsan804/Restaurant-Management-System"><img title="Restaurant-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Restaurant-Management-System&theme=vue-dark"></a>
+<a href="https://ahsan804.github.io/ProfileSearch/" target="_blank"><img title="ProfileSearch" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=ProfileSearch&theme=vue-dark"></a>
 <a href="https://github.com/Ahsan804/Scientific-Calculator-using-Infix-to-Postfix"><img title="Scientific-Calculator-using-Infix-to-Postfix" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Scientific-Calculator-using-Infix-to-Postfix&theme=vue-dark"></a>
 <a href="https://github.com/Ahsan804/ASP.Net-School-Management-System"><img title="ASP.Net-School-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=ASP.Net-School-Management-System&theme=vue-dark"></a>
 <a href="https://github.com/Ahsan804/Dining-Delight"><img title="Dining-Delight" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Dining-Delight&theme=vue-dark"></a>
-<a href="https://ahsan804.github.io/ProfileSearch/" target="_blank"><img title="ProfileSearch" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=ProfileSearch&theme=vue-dark"></a>
+<a href="https://github.com/Ahsan804/Restaurant-Management-System"><img title="Restaurant-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Restaurant-Management-System&theme=vue-dark"></a>
 <a href="https://ahsan804.github.io/Belcanto/" target="_blank"><img title="Belcanto" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=Belcanto&theme=vue-dark"></a>
 <a href="https://ahsan804.github.io/WebDev/" target="_blank"><img title="WebDev" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=WebDev&theme=vue-dark"></a>
 <a href="https://ahsan804.github.io/MovieApp/" target="_blank"><img title="MovieApp" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahsan804&repo=MovieApp&theme=vue-dark"></a>
