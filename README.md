@@ -47,7 +47,7 @@ More Focusing On PHP Projects 😃
 </p>
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DevAhsan Spotify Playing" width="350" />](https://open.spotify.com/playlist/1S6wQlLBxCk5TCVthSfWO0?si=fd1bbc512b4e4d61)<p align="center"> 
+[<img src="https://img.icons8.com/ios-filled/50/000000/spotify.png" alt="DevAhsan Spotify Playing" width="350" />](https://open.spotify.com/playlist/1S6wQlLBxCk5TCVthSfWO0?si=fd1bbc512b4e4d61)<p align="center"> 
 
 <p align="center">
   𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
@@ -94,7 +94,7 @@ More Focusing On PHP Projects 😃
 <a href="https://github.com/devahsanop/School-Management-System"><img title="School-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanop&repo=School-Management-System&theme=vue-dark"></a>
 <a href="https://github.com/devahsanop/Hospital-Management-System"><img title="Hospital-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanop&repo=Hospital-Management-System&theme=vue-dark"></a>
 <a href="https://devahsanop.github.io/ProfileSearch/" target="_blank"><img title="ProfileSearch" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanop&repo=ProfileSearch&theme=vue-dark"></a>
-<a href="https://github.com/DevAhsaNOp/Scientific-Calculator"><img title="Scientific-Calculator-using-Infix-to-Postfix" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanop&repo=Scientific-Calculator-using-Infix-to-Postfix&theme=vue-dark"></a>
+<a href="https://github.com/DevAhsaNOp/Scientific-Calculator"><img title="Scientific-Calculator-using-Infix-to-Postfix" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanop&repo=Scientific-Calculator&theme=vue-dark"></a>
 <a href="https://github.com/devahsanop/ASP.Net-School-Management-System"><img title="ASP.Net-School-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanop&repo=ASP.Net-School-Management-System&theme=vue-dark"></a>
 <a href="https://github.com/devahsanop/Dining-Delight"><img title="Dining-Delight" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanop&repo=Dining-Delight&theme=vue-dark"></a>
 <a href="https://github.com/devahsanop/Restaurant-Management-System"><img title="Restaurant-Management-System" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanop&repo=Restaurant-Management-System&theme=vue-dark"></a>
