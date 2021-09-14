@@ -47,7 +47,7 @@ More Focusing On PHP Projects 😃
 </p>
 
 ### Spotify Playing 🎧
-[<img src="https://img.icons8.com/ios-filled/50/000000/spotify.png" alt="DevAhsan Spotify Playing" width="350" />](https://open.spotify.com/playlist/1S6wQlLBxCk5TCVthSfWO0?si=fd1bbc512b4e4d61)<p align="center"> 
+[<img  src="./audio.gif" alt="DevAhsan Spotify Playing" width="250" />](https://open.spotify.com/playlist/1S6wQlLBxCk5TCVthSfWO0?si=fd1bbc512b4e4d61)<p align="center"> 
 
 <p align="center">
   𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
