@@ -27,7 +27,8 @@ I am passionate about building excellent Softwares / Websites and Web Applicatio
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-More Focusing On Artificial Intelligence, Machine Learning and Dot Net Projects 😃
+More Focusing On Artificial Intelligence, 
+Machine Learning and Dot Net Projects 😃
 ```
 <!--END_SECTION:waka-->
 
