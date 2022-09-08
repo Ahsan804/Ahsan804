@@ -9,7 +9,7 @@ I am passionate about building excellent Softwares / Websites and Web Applicatio
 ## I'm a Developer, and Freelancer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I used tabs instead of spaces 🤞
 
 <img align="right" alt="GIF" src="./PROGRAMMING.gif" width="500" height="320" />
@@ -27,7 +27,7 @@ I am passionate about building excellent Softwares / Websites and Web Applicatio
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-More Focusing On PHP Projects 😃
+More Focusing On Artificial Intelligence, Machine Learning and Dot Net Projects 😃
 ```
 <!--END_SECTION:waka-->
 
@@ -119,4 +119,4 @@ More Focusing On PHP Projects 😃
 [twitter]: https://twitter.com/AHSAN30228618
 [instagram]: https://instagram.com/ahankhn
 [linkedin]: https://linkedin.com/in/ahsan-nadeem-260806159
-[facebook]: https://www.facebook.com/MUH.devahsanop
+[facebook]: https://www.facebook.com/MUH.AHSAN804
