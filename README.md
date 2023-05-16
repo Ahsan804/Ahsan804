@@ -9,7 +9,7 @@ I am passionate about building excellent Softwares / Websites and Web Applicatio
 ## I'm a Developer, and Freelancer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I used tabs instead of spaces 🤞
 
 <img align="right" alt="GIF" src="./PROGRAMMING.gif" width="500" height="320" />
@@ -37,7 +37,7 @@ Machine Learning and Dot Net Projects 😃
 🏆  200 Karma Points           
 🌸  Completed 2 tasks today           
 ✅  Completed 12 tasks so far           
-⏳  Longest streak is 0 days
+⏳  Longest streak is 180 days
 <!-- TODO-IST:END -->
 <br />
 
