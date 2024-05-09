@@ -4,9 +4,31 @@
 ## I'm Ahsan - aka [DevAhsanOP][website] 
 [Visit My Portfolio][website]
 
-I am passionate about building excellent Softwares / Websites and Web Applications that improve the lives of those around me. I specialize in creating software / Websites for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software / Website expert available at your fingertips. According to me, there is nothing greater than finding opportunities for smart people to do awesome things, it's a fantastic process that I feel lucky to participate in. My main strength is adaptability, and the determination to get the job done, develops a new experience. Learning something new from every experience because I believe there is always room for self improvement both personally and professionally.
+I am 𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐡𝐬𝐚𝐧 𝐍𝐚𝐝𝐞𝐞𝐦, a seasoned 𝐒𝐞𝐧𝐢𝐨𝐫 𝐃𝐨𝐭 𝐍𝐞𝐭 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 passionate about delivering exceptional software solutions and web applications. With 5 years of professional experience in software development, I have honed my Multi-Threading, Collection, Data Structure, and Async Programming skills. My expertise extends to agile technology, API development for mobile applications and web portals, and a strong foundation in various programming languages and frameworks. I thrive on delivering exceptional user experiences through clean, efficient code and agile methodologies.
 
-## I'm a Developer, and Freelancer!!
+🌟ℙ𝕣𝕠𝕧𝕖𝕟 𝕥𝕣𝕒𝕔𝕜 𝕣𝕖𝕔𝕠𝕣𝕕 𝕚𝕟:
+✅ Building diverse applications: HRMS (MyHCM), E-Commerce (Fashion Pass), School management systems, Restaurant Management Systems, and more.
+✅ Excelling in all project phases: From requirement analysis and design to development, testing, and deployment.
+
+🎯𝕂𝕖𝕪 𝕊𝕜𝕚𝕝𝕝𝕤:
+✅ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: HTML, XML, C#, Python, SQL, JavaScript, CSS
+✅ 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: ASP .Net Webforms, ASP .Net Core, ASP .Net MVC, jQuery, Entity Framework, SignalR
+✅ 𝐖𝐞𝐛𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: Soap, Rest
+✅ 𝐌𝐞𝐬𝐬𝐚𝐠𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬: RabbitMQ
+✅ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MSSQL, MySQL, MongoDB
+✅ 𝐓𝐨𝐨𝐥𝐬: Git and GitHub, Docker, TFS
+✅ 𝐓𝐞𝐬𝐭𝐢𝐧𝐠: Selenium
+✅ 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬: GCP, Azure
+✅ 𝐃𝐞𝐬𝐢𝐠𝐧 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬: Singleton, Factory Method, Repository Pattern
+✅ 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐚𝐥 𝐏𝐚𝐭𝐭𝐞𝐫𝐧𝐬: Layered pattern, Model-view-controller pattern, Microservices pattern, 
+ Clean Architectural pattern
+
+Driven by a desire to continuously learn and adapt, I'm eager to collaborate with innovative teams and tackle challenging projects. Let's connect!
+
+📞ℂ𝕠𝕟𝕥𝕒𝕔𝕥:
+Feel free to connect with me on LinkedIn or check out my projects on GitHub.
+
+## I'm a Developer and Freelancer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects
@@ -116,8 +138,8 @@ Machine Learning and Dot Net Projects 😃
 <p align="center"> (̴͙̦̔̀͛P̴̞͇̝̀͛͝R̴̝̫͑͒͒O̸͔͓͐͊̚͜G̵͎̙͉̔͆͝R̴̢͙͇̐͝A̴̡̠̺͌͛͝Ḿ̸͇̘͉̒̓Ḿ̸͇̘͉̒̓É̸̡̫͇́͝R̴͓̝͙͒̾̾)̸̙̝̽͋̈́</p>
 
 
-[website]: https://ahsancodes.me
+[website]: https://ahsancodes.tech/
 [twitter]: https://twitter.com/AHSAN30228618
 [instagram]: https://instagram.com/ahankhn
-[linkedin]: https://linkedin.com/in/ahsan-nadeem-260806159
+[linkedin]: https://www.linkedin.com/in/devahsan
 [facebook]: https://www.facebook.com/MUH.AHSAN804
