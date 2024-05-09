@@ -25,8 +25,12 @@ I am 𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐀𝐡𝐬𝐚𝐧 𝐍𝐚𝐝𝐞𝐞�
 
 Driven by a desire to continuously learn and adapt, I'm eager to collaborate with innovative teams and tackle challenging projects. Let's connect!
 
-📞ℂ𝕠𝕟𝕥𝕒𝕔𝕥:
+📞ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝔻𝕖𝕥𝕒𝕚𝕝:
 Feel free to connect with me on LinkedIn or check out my projects on GitHub.
+
+📧 muhd.ahsan605@gmail.com
+📞 +92 331 2398970
+🌐 https://ahsancodes.tech/
 
 ## I'm a Developer and Freelancer!!
 
